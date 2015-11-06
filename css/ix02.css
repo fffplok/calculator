@@ -54,7 +54,7 @@ button {
   position: relative;
   overflow: hidden;
   min-width:25%;
-  max-height:20%;
+  /*max-height:20%;*/
   padding: 0;
   border: 2px solid #000000;
   background:#FFB74D; /*#FFCC80;*/
